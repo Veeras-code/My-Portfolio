@@ -32,7 +32,7 @@ function ProjectCards({ imgPath, title, description, ghLink, demoLink, isBlog })
         />
         <Card.Body style={{ padding: "1.2rem" }}>
           <Card.Title style={{ fontWeight: "600", fontSize: "1.25rem" }}>{title}</Card.Title>
-          <Card.Text style={{ textAlign: "justify", fontSize: "0.95rem", color: "#444" }}>
+          <Card.Text style={{ textAlign: "justify", fontSize: "0.95rem", color: "#eda426" }}>
             {description}
           </Card.Text>
           <div className="d-flex mt-3">
