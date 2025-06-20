@@ -28,7 +28,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Chatify"
-              description="A real-time chatroom built with React.js, Firebase, and Material-UI. Features include messaging, image sharing, and emoji reactions."
+              description="funA real-time chatroom built with React.js, Firebase, and Material-UI. Features include messaging, image sharing, and emoji reactions."
               ghLink="https://github.com/Veeras-code/Chatify"
               demoLink="https://chatify-49.web.app/"
             />
