@@ -6,7 +6,7 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import kisaanmart from "../../Assets/Projects/kisaanmart.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -25,12 +25,12 @@ function Projects() {
         <Row className="justify-content-center pb-4">
           <Col md={4} className="d-flex mb-4">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={kisaanmart}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages.Users can create a Community where they want chat and a user can create a multiple rooms .The User Interface is very Easy to Use."
-              ghLink="https://github.com/Veeras-code/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Kisaan-Mart"
+              description="Built a Full-Stack web application that enables farmers to directly list and sell their agricultural products to consumers through online, eliminating middlemen and increasing profitability. Integrated secure user authentication, real-time product listings, and responsive UI to provide a seamless marketplace experience. Utilized the MERN stack for efficient data handling and scalable deployment."
+              ghLink="https://github.com/Veeras-code/Kisan-Mart"
+              demoLink="https://kisaan-mart-gilt.vercel.app/"
             />
           </Col>
 
