@@ -1,3 +1,2 @@
-# AkankshaAI
 
 Portfolio
